@@ -1,0 +1,1 @@
+# chrome-extension-linkedin-send-to-search
